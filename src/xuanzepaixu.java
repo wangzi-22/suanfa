@@ -25,6 +25,7 @@ public class xuanzepaixu {
                 array[aindex] = array[i];
                 array[i] = tem;
             }
+            //你无敌了孩子
         }
     }
 }
